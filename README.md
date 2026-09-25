@@ -10,9 +10,9 @@
 
 ### 🚀 About Me
 - 🎓 3rd-year CSE student at V.S.B. Engineering College, Karur, Tamil Nadu (Class of 2028) — **8.1 CGPA**, no backlogs
-- 💼 Completing a **UI/UX internship at Labmentix**
-- 🛠️ Backend-focused developer — comfortable across the full stack for academic, internship, and hackathon projects
-- 🏆 Building **AlumniConnect** for Smart India Hackathon 2025 (SIH25017)
+- 💼 Completed Internships in NEURA GLOBAL and CODEALPHA.
+- 🛠️ Frontend,Backend-focused developer — comfortable across the full stack for academic, internship, and hackathon projects
+- 🏆 Builded **E-Voting System** in INDIA INNOVATES and Got selected in TOP 7.
 - 📚 Constantly learning — Google Cloud Arcade, Google Student Ambassador program, Trailhead (Salesforce Admin badge)
 
 ---
