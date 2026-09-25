@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dinesh Karthick 👋</h1>
-<h3 align="center">Backend-Focused Developer | Java • Spring Boot • MySQL</h3>
+<h3 align="center"> Frontend Backend-Focused Developer | Java • Spring Boot • MySQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karthick4521" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
